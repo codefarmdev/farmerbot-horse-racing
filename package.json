@@ -1,13 +1,13 @@
 {
-  "name": "hubot-horse-racing",
+  "name": "farmerbot-horse-racing",
   "version": "1.1.7",
-  "description": "Horse racing in slack! Yay!",
+  "description": "Corrida de cavalos no slack! Yay!",
   "main": "index.coffee",
   "scripts": {
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:mnpk/hubot-horse-racing.git"
+    "url": "git@github.com:codefarmdev/farmerbot-horse-racing.git"
   },
   "keywords": [
     "hubot",
@@ -16,12 +16,12 @@
     "bot",
     "slack"
   ],
-  "author": "mnpk <mnncat@gmail.com>",
+  "author": "José Morais <jmorais@codefarm.com.br>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mnpk/hubot-horse-racing/issues"
+    "url": "https://github.com/codefarmdev/farmerbot-horse-racing/issues"
   },
-  "homepage": "https://github.com/mnpk/hubot-horse-racing",
+  "homepage": "https://github.com/codefarmdev/farmerbot-horse-racing",
   "dependencies": {
   }
 }
