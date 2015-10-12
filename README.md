@@ -1,23 +1,19 @@
-# Hubot Horse Racing
+# Corrida de Cavalos
 
-:horse_racing: Horse racing in Slack! Yay!
-
-[![npm](https://img.shields.io/npm/v/hubot-horse-racing.svg?style=flat-square)](https://www.npmjs.com/package/hubot-horse-racing)
+:horse_racing: Corrida de cavalos no Slack! Yay!
 
 ## Demo
 
-![](http://i.imgur.com/wOxbGWl.gif)
+![](http://i.imgur.com/hOk4ff7.gif)
 
+## Instalação
+```
+npm install git+https://git@github.com/codefarmdev/farmerbot-horse-racing.git
+```
 
-## Install
+## Como usar
 ```
-npm install hubot-horse-racing
-```
-
-## Usage
-```
-me> hubot help race
-hubot> hubot race|경마|달려 <runner> <runner> <runner>
+farmerbot> farmerbot quem ganha? <corredor1> <corredor2> ... <corredorN>
 ```
 
 
